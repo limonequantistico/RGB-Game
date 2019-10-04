@@ -1,0 +1,28 @@
+body{
+    background: #232323;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+.square{
+    width: 30%;
+    background: purple;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    float: left;
+    border-radius: 15%;
+}
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+h1{
+    color: #FFFFFF;
+}
+.crimson{
+    background: crimson;
+    height: 50px;
+    padding-top: 25px;
+}
+.correct{
+    background: #3c763d!important;
+}
